@@ -1,0 +1,114 @@
+﻿Построение начато 14.12.2017 15:01:40.
+     1>Проект "C:\PIZDA\babababa\grafika_lab1-master\grafika_lab1-master\OpenGLrememberProj\OpenGLrememberProj.vcxproj" в узле 2 (целевые объекты Build).
+       Файл проекта содержит ToolsVersion="12.0". Возможно, этот набор инструментов неизвестен или отсутствует (в этом случае проблему можно устранить, установив подходящую версию MSBuild), либо для данной сборки определено конкретное значение ToolsVersion в параметрах политики. Проект обрабатывается как имеющий ToolsVersion="4.0". Дополнительные сведения см. по ссылке http://go.microsoft.com/fwlink/?LinkId=291333.
+     1>ClCompile:
+         A:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Render.cpp
+         Render.cpp
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(31): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(34): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(37): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(41): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(44): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(47): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(51): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(54): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(57): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(61): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(64): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(67): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(102): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(105): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(108): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(112): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(115): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(118): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(122): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(125): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(128): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(132): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(135): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(138): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(203): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(206): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(209): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(213): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(216): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(219): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(223): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(226): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(229): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(233): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(236): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(239): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(248): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(251): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(254): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(258): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(261): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(264): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(268): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(271): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(274): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(278): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(281): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(284): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(293): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(296): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(299): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(303): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(306): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(309): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(313): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(316): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(319): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(323): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(326): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(329): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(377): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(380): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(383): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(387): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(390): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(393): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(397): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(400): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(403): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(407): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(410): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(413): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(422): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(425): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(428): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(432): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(435): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(438): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(442): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(445): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(448): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(452): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(455): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(458): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(467): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(470): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(473): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(477): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(480): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(483): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(487): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(490): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(493): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(497): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(500): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(503): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(13): warning C4101: __j: неиспользованная локальная переменная
+     1>c:\pizda\babababa\grafika_lab1-master\grafika_lab1-master\openglrememberproj\render.cpp(13): warning C4101: _j: неиспользованная локальная переменная
+       Link:
+         A:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\PIZDA\babababa\grafika_lab1-master\grafika_lab1-master\Debug\OpenGLrememberProj.exe" /INCREMENTAL /NOLOGO opengl32.lib glu32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\PIZDA\babababa\grafika_lab1-master\grafika_lab1-master\Debug\OpenGLrememberProj.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\PIZDA\babababa\grafika_lab1-master\grafika_lab1-master\Debug\OpenGLrememberProj.lib" /MACHINE:X86 Debug\OpenGLrememberProj.res
+         Debug\OpenGLrememberProj.obj
+         Debug\Render.obj
+         OpenGLrememberProj.vcxproj -> C:\PIZDA\babababa\grafika_lab1-master\grafika_lab1-master\Debug\OpenGLrememberProj.exe
+     1>Построение проекта "C:\PIZDA\babababa\grafika_lab1-master\grafika_lab1-master\OpenGLrememberProj\OpenGLrememberProj.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.10
